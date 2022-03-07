@@ -1,1 +1,1 @@
-This Repository conatians a raw implementation of Unet++ Model for Biomedical Images in Torch, You can customize the above ```Unet.py``` file for different Medical Dataset, or you can also make the network more finer, Totally depends upon task.
+This Repository conatians a my raw implementation of Unet++ Model for Biomedical Images in Torch, You can customize the above ```Unet.py``` file for different Medical Dataset, or you can also make the network more finer, Totally depends upon task.
