@@ -89,22 +89,7 @@ class Unet(nn.Module):
 
         return out
 
-
-
-
-
 if __name__ == '__main__':
     image = torch.randn(1, 1, 572, 572)
     unet = Unet()
     print(unet(image))
-    
-    
-
-
-
-
-
-
-
-
-
